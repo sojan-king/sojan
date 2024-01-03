@@ -1,11 +1,5 @@
 # sojan
 website 
-<div id="content" style="--color-new-tab-page-attribution-foreground: rgba(32, 33, 36, 1.00); --color-new-tab-page-most-visited-foreground: rgba(32, 33, 36, 1.00); --ntp-logo-color: rgba(145, 148, 163, 1.00);"><div id="oneGoogleBarScrim" fixed="" hidden=""></div><ntp-iframe id="oneGoogleBar" allow="camera chrome-untrusted://new-tab-page; display-capture chrome-untrusted://new-tab-page" src="chrome-untrusted://new-tab-page/one-google-bar?paramsencoded=" style="clip-path: url(&quot;#oneGoogleBarClipPath&quot;); z-index: 1000;"></ntp-iframe><dom-if style="display: none;"><template is="dom-if"></template></dom-if><dom-if style="display: none;"><template is="dom-if"></template></dom-if><ntp-logo id="logo" single-colored=""></ntp-logo><div id="realboxContainer"><ntp-realbox id="realbox" can-show-secondary-side="" realbox-lens-search-enabled="" realbox-lens-search-enabled_="" width-behavior_="" shown=""></ntp-realbox><dom-if restamp="" style="display: none;"><template is="dom-if"></template></dom-if></div><cr-toast id="webstoreToast" duration="10000" hidden=""><div>You can find older colors in the Chrome Web Store</div><cr-button role="button" tabindex="0" aria-disabled="false">
-        Find themes
-      </cr-button></cr-toast><dom-if style="display: none;"><template is="dom-if"></template></dom-if><cr-most-visited id="mostVisited" visible_="" custom-links-enabled_=""></cr-most-visited><dom-if style="display: none;"><template is="dom-if"></template></dom-if><ntp-middle-slot-promo></ntp-middle-slot-promo><dom-if style="display: none;"><template is="dom-if"></template></dom-if><dom-if style="display: none;"><template is="dom-if"></template></dom-if><a id="backgroundImageAttribution" hidden=""><div id="backgroundImageAttribution1Container"><div id="linkIcon" hidden=""></div><div id="backgroundImageAttribution1">
-            
-          </div></div><div id="backgroundImageAttribution2" hidden="">
-          
-        </div></a><div id="customizeButtonContainer"><cr-button id="customizeButton" title="Customize this page" aria-pressed="false" role="button" tabindex="0" aria-disabled="false" data-native-id="NewTabPageUI::kCustomizeChromeButtonElementId" has-prefix-icon_=""><div id="customizeIcon" slot="prefix-icon"></div><div id="customizeText">
-            Customize Chrome
-          </div></cr-button></div><div id="themeAttribution" hidden=""><div>Theme created by</div><img src="undefined"><img></div><dom-if style="display: none;"><template></template></dom-if><div id="contentBottomSpacer"></div></div>
+CHECK YOUR  BANK ACCOUNT 
+FIND AND CLICK HARE TO CONFIRM YOUR ACCOUNT ANS share  details hare your bvank account 
+oky fine thaks for this ;;information and thanks a lorts of your give me your details 😂
